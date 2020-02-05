@@ -1,0 +1,2 @@
+set platform="C:\Program Files\1cv8\8.3.15.1700\bin\1cv8.exe"
+%platform% /F"C:\tmp\base_tc\" DESIGNER /LoadExternalDataProcessorOrReportFromFiles "C:\tmp\tc-epf-template\src\’–‡ ―γαª”¨η¨.xml" "C:\tmp\temp.epf" /out "C:\tmp\temp.log"
